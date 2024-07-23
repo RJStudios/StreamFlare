@@ -1,0 +1,5 @@
+yt-dlp==2024.07.21
+requests==2.31.0
+mutagen==1.48.0
+tqdm==4.65.0
+pyfiglet==0.8.post1
