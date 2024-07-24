@@ -1,5 +1,6 @@
 # StreamFlare
 - a simple youtube downloader, for terminals.
+## https://github.com/realcgcristi/StreamFlareUI for the UI version
 
 after your download both the .py and the requirements, in your terminal, where the .txt dn .py are run `pip install -r requirements.txt`
 and then, you run `python StreamFlare.py` (or `py StreamFlare.py`)
